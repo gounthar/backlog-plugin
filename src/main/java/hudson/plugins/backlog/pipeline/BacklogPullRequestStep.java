@@ -11,7 +11,7 @@ import org.jenkinsci.plugins.workflow.steps.AbstractSynchronousNonBlockingStepEx
 import org.jenkinsci.plugins.workflow.steps.StepContextParameter;
 import org.kohsuke.stapler.DataBoundConstructor;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 public class BacklogPullRequestStep extends AbstractStepImpl {
 
