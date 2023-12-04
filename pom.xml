@@ -5,12 +5,12 @@
   <parent>
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
-    <version>4.42</version>
+    <version>4.51</version>
     <relativePath />
   </parent>
 
   <properties>
-    <jenkins.version>2.332.1</jenkins.version>
+    <jenkins.version>2.346.3</jenkins.version>
     <gitHubRepo>jenkinsci/${project.artifactId}-plugin</gitHubRepo>
     <spotbugs.threshold>High</spotbugs.threshold> <!-- TODO fix violations -->
   </properties>
