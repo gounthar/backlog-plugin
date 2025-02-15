@@ -1,7 +1,7 @@
 package hudson.plugins.backlog;
 
 import static org.hamcrest.CoreMatchers.*;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertThat;
 import hudson.plugins.backlog.BacklogProjectProperty.DescriptorImpl;
 import hudson.util.FormValidation;
 

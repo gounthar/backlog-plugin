@@ -1,13 +1,9 @@
 package hudson.plugins.backlog.repositorybrowser;
 
-import hudson.model.AbstractProject;
-import hudson.model.Job;
-import hudson.model.JobProperty;
 import hudson.model.Run;
 import hudson.plugins.backlog.BacklogGitRepositoryBrowser;
 import hudson.plugins.backlog.BacklogProjectProperty;
 import hudson.plugins.backlog.BacklogRepositoryBrowser;
-import hudson.scm.ChangeLogSet;
 import hudson.scm.ChangeLogSet.Entry;
 
 import org.apache.commons.lang.StringUtils;

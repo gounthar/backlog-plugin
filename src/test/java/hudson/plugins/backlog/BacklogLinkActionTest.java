@@ -1,13 +1,7 @@
 package hudson.plugins.backlog;
 
-import com.nulabinc.backlog4j.*;
-import com.nulabinc.backlog4j.api.option.PullRequestQueryParams;
-import com.nulabinc.backlog4j.conf.BacklogConfigure;
-import com.nulabinc.backlog4j.conf.BacklogJpConfigure;
 import org.junit.Test;
 import org.jvnet.hudson.test.HudsonTestCase;
-
-import java.util.Arrays;
 
 public class BacklogLinkActionTest extends HudsonTestCase {
 

@@ -3,7 +3,6 @@ package hudson.plugins.backlog;
 import hudson.Extension;
 import hudson.MarkupText;
 import hudson.MarkupText.SubText;
-import hudson.model.AbstractBuild;
 import hudson.model.Run;
 import hudson.scm.ChangeLogAnnotator;
 import hudson.scm.ChangeLogSet.Entry;
